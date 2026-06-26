@@ -86,3 +86,18 @@ While Trust-Region methods offer exceptional algorithmic safety profiles, execut
 | [**Autonomous Robotic Locomotion & Control Stacks**](details/autonomous_robotic_locomotion.md) | Coordinates complex kinetic movements for bipedal humanoids or quadrupedal robotic fleets. Trust-region constraints guarantee that the motor actuation network updates its joint torque policies stably, preventing erratic spikes that could cause physical hardware damage. | 2019 | [Hwangbo et al. (2019)](https://www.science.org/doi/10.1126/scirobotics.aau5872) |
 | [**Deep Portfolio Optimization & High-Frequency Trading Agents**](details/deep_portfolio_optimization.md) | Drives financial asset allocation networks inside volatile trading environments. By enforcing statistical distribution trust regions over asset weights, the autonomous trading agent maps risk parameters safely, preventing sudden catastrophic market-exposure collapses during rapid macro-economic shifts. | 2017 | [Jiang et al. (2017)](https://arxiv.org/abs/1706.10059) |
 
+---
+
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Trust-Region-Methods&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Trust-Region-Methods&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Trust-Region-Methods&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Trust-Region-Methods&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+
