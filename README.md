@@ -10,7 +10,10 @@ Trust-Region methods are a robust family of mathematical optimization frameworks
 The implementation of trust-region boundaries has transitioned from classical non-linear optimization to probability distribution constraints, moving toward scalable first-order structural approximations.
 
 ```mermaid
-[Classical Numerical Optimization] ----> [Statistical Distance (TRPO, 2015)] ----> [First-Order Bound Proximal (PPO, 2017)](Levenberg-Marquardt / Exact Hessians)     (Second-Order KL Divergence Matrix)          (Clipped Objective Probability Ratios)
+flowchart LR
+    A["Classical Numerical Optimization<br/>(Levenberg-Marquardt / Exact Hessians)"]
+    --> B["Statistical Distance (TRPO, 2015)<br/>(Second-Order KL Divergence Matrix)"]
+    --> C["First-Order Bound Proximal (PPO, 2017)<br/>(Clipped Objective Probability Ratios)"]
 ```
 
 *   **The Classical Numerical Optimization Era (Pre-Deep Learning)**
